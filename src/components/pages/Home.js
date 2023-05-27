@@ -4,7 +4,7 @@ import { Typography } from "@material-ui/core";
 const Home = (props) => {
   return (
     <>
-      <Typography variant="h3">Home Page</Typography>
+      <Typography variant="h3">Home Pageeeeeeeeee</Typography>
       <Typography variant="body2">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tristique
         lacus tortor, sit amet viverra ligula elementum vel. Suspendisse eu ante
